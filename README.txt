@@ -1,0 +1,1 @@
+#### Criar um loop que conte todos os números ímpares de 1 até 100 usando >for< e >while< ###
